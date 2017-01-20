@@ -13,3 +13,7 @@ theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
+
+prose:
+  siteurl: 'https://anselmi-tuhkanen2.github.io/'
+  media: 'media'
