@@ -1,7 +1,2 @@
----
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-# layout: home
----
-Index!!!!
+Index5!!!!!
+[foo]({{site.baseurl}}//51dc8e27e4b097e4d3839b3d.jpg)
