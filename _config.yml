@@ -5,6 +5,8 @@ collections:
   pics:
     title: Pics
     output: true
+    Field name:
+      Key 1: path_image
   posts:
     title: Posts
     output: true
