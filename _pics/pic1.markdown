@@ -1,6 +1,10 @@
 ---
 title: Pic1
 date: 2017-01-20 17:02:00 Z
+pic_image: "/uploads/map-marker-black-b94bef.png"
 ---
 
-![51dc7b36e4b097e4d3838ac2-3e652e.jpg](/uploads/51dc7b36e4b097e4d3838ac2-3e652e.jpg)
+---
+title: Pic1
+desc: Lorem ipsum
+---
