@@ -9,3 +9,4 @@ pic3_image:
 ---
 
 Index-siteleaf
+![figure1-d0312d.png](/uploads/figure1-d0312d.png)
