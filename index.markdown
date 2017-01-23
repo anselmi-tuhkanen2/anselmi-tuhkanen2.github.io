@@ -14,3 +14,6 @@ Index-siteleaf3
     {{ image.path }}
     <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
 {% endfor %}
+
+![figure1-d0312d.png](/uploads/figure1-d0312d.png)
+
